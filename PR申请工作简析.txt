@@ -1,0 +1,13 @@
+Analyse process/program specifications and translate specifications to program codes, conforming to program guidelines and programming best practices
+Make changes to configurable items, which include hardware, software, documentation, etc. Itcovers configuration management planning, configuration identification, configuration controls and audits
+Develop unit test package, execute tests and document test results to ensure the quality of the program 
+Assist in the integration testing, system testing, User Acceptance Test (UAT) and implementation activities to fix the reported problems/bugs of the system to ensure the smooth execution of programs in the production environment
+Investigate all reported problems/errors and initiate amendments and testing so that the system can operate correctly and efficiently
+Prepare and maintain up-to-date system documentation
+Analyse functional requirements to translate into application design using established design methodologies and guidelines
+Ensure codes comply with NCS security guidelines
+Work with team lead to ensure design and programme codes conform to architecture and design standards, and that design satisfies functional and system requirements
+Participate in requirements gathering; work with Business Analysts in reviewing and refining functional specifications
+Participate in peer reviews to improve project quality
+
+Analyse process or program specifications and translate specifications to program codes, conforming to program guidelines and programming best practices. Make changes to configurable items, which include hardware, software, documentation, etc. It covers configuration management planning, configuration identification, configuration controls and audits. Develop unit test package, execute tests and document test results to ensure the quality of the program. Assist in the integration testing, system testing, User Acceptance Test and implementation activities to fix the reported problems/bugs of the system to ensure the smooth execution of programs in the production environment. Investigate all reported problems/errors and initiate amendments and testing so that the system can operate correctly and efficiently. Prepare and maintain up-to-date system documentation. Analyse functional requirements to translate into application design using established designme thodologies and guidelines. Ensure codes comply with NCS security guidelines. Work with team lead to ensure design and programme codes conform to architecture and design standards, and that design satisfies functional and system requirements. Participate in requirements gathering; work with Business Analysts in reviewing and refining functional specifications. Participate in peer reviews to improve project quality.

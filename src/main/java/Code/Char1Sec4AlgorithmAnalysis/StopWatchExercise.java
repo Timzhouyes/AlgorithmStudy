@@ -6,5 +6,6 @@ public class StopWatchExercise {
     public static void main(String[] args) {
         Stopwatch stopwatch = new Stopwatch();
         System.out.println(stopwatch.elapsedTime());
+
     }
 }
